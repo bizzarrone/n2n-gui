@@ -135,5 +135,7 @@ class BasicListViewExample:
  
  
 if __name__ == "__main__":
+    print "N2N Gui v 0.1"
+    print "Wait please..."
     lvexample = BasicListViewExample()
     lvexample.main()
